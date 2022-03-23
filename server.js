@@ -7,7 +7,7 @@ if(message.content === "/ping") {
 }
 })
 
-client.login("Nzg2ODU4MDkwNzgyNzg1NTY2.X9Mgsw.hKcY0hkHoOsc0BF7OhJUFPIHbiM")
+client.login("Nzg2ODU4MDkwNzgyNzg1NTY2.X9Mgsw.PjwbomDkv5-4mU9rpF-WHITHN-A")
 
 client.on("message", message => {
 if(message.content === "/rozvrh") {
